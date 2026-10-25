@@ -1,7 +1,5 @@
 # LCGD: Langevin-Inspired Controlled Graph Dynamics for Robust Cascades Prediction
 
-> AAAI 2027 submission.
-
 ## Model Overview
 
 LCGD replaces the linear GNN encoder in cascade prediction models with a **Controlled Graph Dynamics (CGD)**, a Langevin-inspired  energy-based graph dynamics encoder.
